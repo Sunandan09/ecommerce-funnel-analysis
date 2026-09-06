@@ -2,6 +2,11 @@
 
 > End-to-end e-commerce analytics project using **Python and Power BI** to analyze customer journey, funnel drop-offs, revenue performance, and user behavior.
 
+## 📊 Dashboard Preview
+
+### Overview
+![Overview Dashboard](overview.png)
+
 ## 📌 Project Overview
 
 This project analyzes an e-commerce customer journey across the **Browse → Add to Cart → Checkout → Purchase** funnel. Python was used for data preparation, session-level transformation, exploratory analysis, KPI calculation, and behavioral analysis. Power BI was then used to build an interactive four-page dashboard for business reporting and decision-making.
@@ -91,7 +96,14 @@ The interactive Power BI report contains four pages, each designed around a dist
 
 **Interactive features:** synchronized Date, Channel, Region & Device filters • cross-page navigation • dynamic DAX measures.
 
-> Dashboard screenshots will be added here as portfolio previews.
+### Funnel Analysis
+![Funnel Analysis Dashboard](funnel_analysis.png)
+
+### Performance Analysis
+![Performance Analysis Dashboard](performance_analysis.png)
+
+### Trends & User Behavior
+![Trends and User Behavior Dashboard](trends_user_behavior.png)
 
 ## 🚀 Business Recommendations
 
@@ -110,6 +122,10 @@ The interactive Power BI report contains four pages, each designed around a dist
 | [`Funnel_analysis_dashboard.pbix`](Funnel_analysis_dashboard.pbix) | Interactive Power BI dashboard |
 | [`Funnel Analysis Word Report.docx`](Funnel%20Analysis%20Word%20Report.docx) | Detailed project report |
 | [`funnel_conversion_rates.png`](funnel_conversion_rates.png) | Funnel conversion visualization generated during analysis |
+| [`overview.png`](overview.png) | Power BI Overview page |
+| [`funnel_analysis.png`](funnel_analysis.png) | Power BI Funnel Analysis page |
+| [`performance_analysis.png`](performance_analysis.png) | Power BI Performance Analysis page |
+| [`trends_user_behavior.png`](trends_user_behavior.png) | Power BI Trends & User Behavior page |
 
 ## 📌 Project Outcome
 
