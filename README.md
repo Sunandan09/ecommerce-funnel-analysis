@@ -2,17 +2,17 @@
 
 > **End-to-end data analytics project using Python and Power BI to analyze customer journey, conversion drop-offs, revenue performance, and user behavior.**
 
-[![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB?logo=python&logoColor=white)](funnel_analysis.ipynb)
-[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)](Funnel_analysis_dashboard.pbix)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)](funnel_analysis.ipynb)
+[![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB?logo=python&logoColor=white)](notebooks/funnel_analysis.ipynb)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)](dashboard/Funnel_analysis_dashboard.pbix)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)](notebooks/funnel_analysis.ipynb)
 
-**Quick Access:** [Python Notebook](funnel_analysis.ipynb) • [Power BI Dashboard](Funnel_analysis_dashboard.pbix) • [Project Report (PDF)](Ecommerce_Funnel_Analysis_Report.pdf) • [Raw Dataset](funnel_analysis_raw_data.csv)
+**Quick Access:** [Python Notebook](notebooks/funnel_analysis.ipynb) • [Power BI Dashboard](dashboard/Funnel_analysis_dashboard.pbix) • [Project Report (PDF)](report/Ecommerce_Funnel_Analysis_Report.pdf) • [Raw Dataset](data/funnel_analysis_raw_data.csv)
 
 ---
 
 ## 📊 Dashboard Preview
 
-![E-Commerce Funnel Performance Dashboard](overview.png)
+![E-Commerce Funnel Performance Dashboard](images/overview.png)
 
 ## 📌 Project Overview
 
@@ -79,7 +79,7 @@ The largest absolute drop occurs between **Add to Cart and Checkout**, where **3
 
 ### Python Funnel Visualization
 
-![Funnel Conversion Rates](funnel_conversion_rates.png)
+![Funnel Conversion Rates](images/funnel_conversion_rates.png)
 
 ## 💡 Key Business Insights
 
@@ -104,13 +104,13 @@ The interactive Power BI report contains four pages, each designed around a dist
 **Interactive features:** synchronized Date, Channel, Region & Device filters • cross-page navigation • dynamic DAX measures.
 
 ### Funnel Analysis
-![Funnel Analysis Dashboard](funnel_analysis.png)
+![Funnel Analysis Dashboard](images/funnel_analysis.png)
 
 ### Performance Analysis
-![Performance Analysis Dashboard](performance_analysis.png)
+![Performance Analysis Dashboard](images/performance_analysis.png)
 
 ### Trends & User Behavior
-![Trends and User Behavior Dashboard](trends_user_behavior.png)
+![Trends and User Behavior Dashboard](images/trends_user_behavior.png)
 
 ## 🚀 Business Recommendations
 
@@ -122,22 +122,21 @@ The interactive Power BI report contains four pages, each designed around a dist
 
 ## 📁 Repository Contents
 
-| File | Description |
+| Folder / File | Description |
 |---|---|
-| [`funnel_analysis_raw_data.csv`](funnel_analysis_raw_data.csv) | Raw event-level e-commerce dataset |
-| [`funnel_analysis.ipynb`](funnel_analysis.ipynb) | Complete Python analysis and visualizations |
-| [`Funnel_analysis_dashboard.pbix`](Funnel_analysis_dashboard.pbix) | Interactive Power BI dashboard |
-| [`Ecommerce_Funnel_Analysis_Report.pdf`](Ecommerce_Funnel_Analysis_Report.pdf) | Portfolio-ready project report |
+| [`data/`](data/) | Raw event-level e-commerce dataset |
+| [`notebooks/`](notebooks/) | Complete Python analysis and visualizations |
+| [`dashboard/`](dashboard/) | Interactive Power BI dashboard |
+| [`report/`](report/) | Portfolio-ready PDF project report |
+| [`images/`](images/) | Dashboard screenshots and analysis visualizations |
 | [`requirements.txt`](requirements.txt) | Python dependencies used in the analysis |
-
-Dashboard screenshots and analysis visualizations are also included in the repository for quick portfolio viewing.
 
 ## ▶️ How to Explore This Project
 
-1. Open **`funnel_analysis.ipynb`** to review the complete Python analysis workflow.
-2. Open **`Funnel_analysis_dashboard.pbix`** in Power BI Desktop to interact with the dashboard and synchronized filters.
-3. Read **[`Ecommerce_Funnel_Analysis_Report.pdf`](Ecommerce_Funnel_Analysis_Report.pdf)** for the complete project journey, findings, dashboard views, and recommendations.
-4. Use **`funnel_analysis_raw_data.csv`** to reproduce or extend the analysis.
+1. Open **[`notebooks/funnel_analysis.ipynb`](notebooks/funnel_analysis.ipynb)** to review the complete Python analysis workflow.
+2. Open **[`dashboard/Funnel_analysis_dashboard.pbix`](dashboard/Funnel_analysis_dashboard.pbix)** in Power BI Desktop to interact with the dashboard and synchronized filters.
+3. Read **[`report/Ecommerce_Funnel_Analysis_Report.pdf`](report/Ecommerce_Funnel_Analysis_Report.pdf)** for the complete project journey, findings, dashboard views, and recommendations.
+4. Use **[`data/funnel_analysis_raw_data.csv`](data/funnel_analysis_raw_data.csv)** to reproduce or extend the analysis.
 
 ## 📌 Project Outcome
 
