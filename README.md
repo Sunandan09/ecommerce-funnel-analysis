@@ -1,11 +1,18 @@
 # 🛒 E-Commerce Funnel Performance Analysis
 
-> End-to-end e-commerce analytics project using **Python and Power BI** to analyze customer journey, funnel drop-offs, revenue performance, and user behavior.
+> **End-to-end data analytics project using Python and Power BI to analyze customer journey, conversion drop-offs, revenue performance, and user behavior.**
+
+[![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB?logo=python&logoColor=white)](funnel_analysis.ipynb)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)](Funnel_analysis_dashboard.pbix)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)](funnel_analysis.ipynb)
+
+**Quick Access:** [Python Notebook](funnel_analysis.ipynb) • [Power BI Dashboard](Funnel_analysis_dashboard.pbix) • [Project Report](Funnel%20Analysis%20Word%20Report.docx) • [Raw Dataset](funnel_analysis_raw_data.csv)
+
+---
 
 ## 📊 Dashboard Preview
 
-### Overview
-![Overview Dashboard](overview.png)
+![E-Commerce Funnel Performance Dashboard](overview.png)
 
 ## 📌 Project Overview
 
@@ -121,11 +128,16 @@ The interactive Power BI report contains four pages, each designed around a dist
 | [`funnel_analysis.ipynb`](funnel_analysis.ipynb) | Complete Python analysis and visualizations |
 | [`Funnel_analysis_dashboard.pbix`](Funnel_analysis_dashboard.pbix) | Interactive Power BI dashboard |
 | [`Funnel Analysis Word Report.docx`](Funnel%20Analysis%20Word%20Report.docx) | Detailed project report |
-| [`funnel_conversion_rates.png`](funnel_conversion_rates.png) | Funnel conversion visualization generated during analysis |
-| [`overview.png`](overview.png) | Power BI Overview page |
-| [`funnel_analysis.png`](funnel_analysis.png) | Power BI Funnel Analysis page |
-| [`performance_analysis.png`](performance_analysis.png) | Power BI Performance Analysis page |
-| [`trends_user_behavior.png`](trends_user_behavior.png) | Power BI Trends & User Behavior page |
+| [`requirements.txt`](requirements.txt) | Python dependencies used in the analysis |
+
+Dashboard screenshots and analysis visualizations are also included in the repository for quick portfolio viewing.
+
+## ▶️ How to Explore This Project
+
+1. Open **`funnel_analysis.ipynb`** to review the complete Python analysis workflow.
+2. Open **`Funnel_analysis_dashboard.pbix`** in Power BI Desktop to interact with the dashboard and synchronized filters.
+3. Read **`Funnel Analysis Word Report.docx`** for the complete project journey, findings, and recommendations.
+4. Use **`funnel_analysis_raw_data.csv`** to reproduce or extend the analysis.
 
 ## 📌 Project Outcome
 
