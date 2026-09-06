@@ -1,1 +1,0 @@
-This file documents the repository cleanup in progress.
