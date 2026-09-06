@@ -6,7 +6,7 @@
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)](Funnel_analysis_dashboard.pbix)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)](funnel_analysis.ipynb)
 
-**Quick Access:** [Python Notebook](funnel_analysis.ipynb) • [Power BI Dashboard](Funnel_analysis_dashboard.pbix) • [Project Report](Funnel%20Analysis%20Word%20Report.docx) • [Raw Dataset](funnel_analysis_raw_data.csv)
+**Quick Access:** [Python Notebook](funnel_analysis.ipynb) • [Power BI Dashboard](Funnel_analysis_dashboard.pbix) • [Project Report (PDF)](Ecommerce_Funnel_Analysis_Report.pdf) • [Raw Dataset](funnel_analysis_raw_data.csv)
 
 ---
 
@@ -127,7 +127,7 @@ The interactive Power BI report contains four pages, each designed around a dist
 | [`funnel_analysis_raw_data.csv`](funnel_analysis_raw_data.csv) | Raw event-level e-commerce dataset |
 | [`funnel_analysis.ipynb`](funnel_analysis.ipynb) | Complete Python analysis and visualizations |
 | [`Funnel_analysis_dashboard.pbix`](Funnel_analysis_dashboard.pbix) | Interactive Power BI dashboard |
-| [`Funnel Analysis Word Report.docx`](Funnel%20Analysis%20Word%20Report.docx) | Detailed project report |
+| [`Ecommerce_Funnel_Analysis_Report.pdf`](Ecommerce_Funnel_Analysis_Report.pdf) | Portfolio-ready project report |
 | [`requirements.txt`](requirements.txt) | Python dependencies used in the analysis |
 
 Dashboard screenshots and analysis visualizations are also included in the repository for quick portfolio viewing.
@@ -136,7 +136,7 @@ Dashboard screenshots and analysis visualizations are also included in the repos
 
 1. Open **`funnel_analysis.ipynb`** to review the complete Python analysis workflow.
 2. Open **`Funnel_analysis_dashboard.pbix`** in Power BI Desktop to interact with the dashboard and synchronized filters.
-3. Read **`Funnel Analysis Word Report.docx`** for the complete project journey, findings, and recommendations.
+3. Read **[`Ecommerce_Funnel_Analysis_Report.pdf`](Ecommerce_Funnel_Analysis_Report.pdf)** for the complete project journey, findings, dashboard views, and recommendations.
 4. Use **`funnel_analysis_raw_data.csv`** to reproduce or extend the analysis.
 
 ## 📌 Project Outcome
